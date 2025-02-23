@@ -1,4 +1,4 @@
-use result_logger::ResultLogging;
+use result_logger::ResultLogger;
 
 fn main() {
     simple_logger::init().unwrap();
