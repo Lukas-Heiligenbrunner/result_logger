@@ -1,0 +1,12 @@
+[package]
+name = "result_logger"
+version = "0.1.0"
+edition = "2021"
+description = "aux functions for Results to log errors"
+license = "MIT"
+
+[dependencies]
+log = "0.4.26"
+
+[dev-dependencies]
+simple_logger = "5.0.0"
